@@ -1,4 +1,3 @@
-// src/pages/ListarVagas/index.jsx
 import { useState } from "react";
 import "./style.css";
 
